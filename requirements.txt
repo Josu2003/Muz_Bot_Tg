@@ -1,3 +1,4 @@
+pydantic==2.4.2
 aiogram==3.4.1
 yt-dlp
 python-dotenv
